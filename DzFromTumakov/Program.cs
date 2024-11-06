@@ -1,3 +1,1 @@
 ﻿
-Console.Write('h');
-
